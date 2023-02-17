@@ -1,0 +1,14 @@
+.box{
+    background-color: black;
+    height: 420px;
+}
+@media(min-width: 500px) {
+    .box{
+        background-color: aquamarine;
+    }
+}
+@media (min-width: 1000px){
+    .box{
+        background-color: blueviolet;
+    }
+}
